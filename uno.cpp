@@ -7,6 +7,6 @@ int main()
 	// Agrego comentario para realizar un git pull.
 	// Comentario para modificar la rama.
 	// Comentario en el master para modificar el archivo.
-	std::cout << "Hello World!";
+	std::cout << "Hola World!";
 	return 0;
 }
